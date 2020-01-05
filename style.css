@@ -443,6 +443,10 @@ button:focus {
 	width: 100%;
 }
 
+.mu-about-right p {
+	font-size: large;
+}
+
 
 
 /*--------------------*/
