@@ -451,7 +451,7 @@ button:focus {
 
 
 #mu-brochure {
-	background-image: url("assets/images/about-brochure-bg.jpg");
+	background-image: url("assets/images/head-featured-bg.jpg");
 	background-attachment: fixed;
 	background-position: center center;
 	-webkit-background-size: cover;
@@ -476,8 +476,12 @@ button:focus {
 	width: 100%;
 }
 
-.mu-brochure-area h2 {
+.mu-brochure-area h2, .mu-brochure-area h3 {
 	color: #fff;
+}
+
+.mu-brochure-area h4 a {
+	color: aqua;
 }
 
 .mu-brochure-content {
@@ -965,7 +969,7 @@ button:focus {
 /*--------------------*/
 
 #mu-register {
-	background-image: url("assets/images/register-bg.jpg");
+	background-image: url("assets/images/head-featured-bg.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
