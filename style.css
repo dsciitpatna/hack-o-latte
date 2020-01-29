@@ -106,7 +106,11 @@ h6 {
 img {
 	border: none;
 	max-width: 100%;
+	height:200px;
 }
+.ic{ border: none;
+	max-width: 100%;
+	height:250px; }
 
 code {
 	background-color: #ee6e73;
@@ -1116,6 +1120,7 @@ button:focus {
 	margin-top: 10px;
 	margin-bottom: 15px;
 	width: 100%;
+	margin-left: 240%;
 }
 
 
