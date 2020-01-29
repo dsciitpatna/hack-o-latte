@@ -106,8 +106,16 @@ h6 {
 img {
 	border: none;
 	max-width: 100%;
+<<<<<<< HEAD
 	height:200px;
+=======
+    height:200px;
+>>>>>>> cab6612065ca10b77f6fed795d49991a4b921daf
 }
+.ic{ border: none;
+	max-width: 100%;
+	height:250px; }
+
 .ic{ border: none;
 	max-width: 100%;
 	height:250px; }
@@ -117,6 +125,7 @@ code {
 	border-radius: 2px;
 	color: #fff;
 	padding: 2px 4px;
+    margin-left: 240%;
 }
 
 pre {
